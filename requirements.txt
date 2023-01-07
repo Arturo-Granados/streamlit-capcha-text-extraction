@@ -1,0 +1,6 @@
+tensorflow==2.11.0
+streamlit==1.16.0
+opencv-python==4.7.0.68
+joblib==1.2.0
+#protobuf==3.20
+Pillow==9.4.0
